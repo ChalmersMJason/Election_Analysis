@@ -18,10 +18,15 @@ The analysis of the election shows that:
 
 * There were x votes cast in the election
 * The candidates were:
-** 1
-** 2
-** 3
+  * 1
+  * 2
+  * 3
 * Results were:
+  * Candidate 1 received x% of the vote and y number of votes
+  * Candidate 2 received x% of the vote and y number of votes
+  * Candidate 3 received x% of the vote and y number of votes
+* The winner of the election was:
+  * Candidate X who received x% of the vote and y number of votes
 
 # Challenge Overview
 
